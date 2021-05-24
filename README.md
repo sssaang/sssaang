@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sssaang
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning Systematic Programming
+- 🌱 I’m currently learning MSA Architecture
 - 💞️ I’m looking to collaborate on anything associates heavy user traffics
 - 📫 How to reach me sangmin.kim@business-canvas.com
 
