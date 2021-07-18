@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sssaang
-- 👀 I’m interested in Programming
-- 🌱 I’m currently learning MSA Architecture
-- 💞️ I’m looking to collaborate on anything associates heavy user traffics
+- 👀 I’m interested in Server Engineering
+- 🌱 I’m currently learning MSA Architecture, Design Patterns, and System Design
+- 💞️ I’m looking to collaborate on projects associates heavy user traffics and data management
 - 📫 How to reach me sangmin.kim@business-canvas.com
 
 <!---
